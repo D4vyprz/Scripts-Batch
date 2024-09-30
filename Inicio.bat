@@ -116,7 +116,7 @@ Echo. Copiando archivos, espere...
 Echo.
 
 :: Llamar a la función que copia solo los archivos nuevos o modificados
-call :CopiarArchivos "C:\Users\dpere.DESKTOP-JN022TD\OneDrive\Documentos\DocsLearn" "S:\COPIAS_SEGURIDAD_DPC"
+call :CopiarArchivos "C:\Users\X\OneDrive\Documentos\DocsLearn" "S:\COPIAS_SEGURIDAD_DPC"
 
 :: Función para copiar solo archivos nuevos o modificados
 :CopiarArchivos
@@ -154,7 +154,7 @@ echo==============================================
 echo.
 :: Todo esta en la URL, no consigo mejor manera de hacerlo... Diosito iluminame.
 :Accion
-start chrome "https://web.whatsapp.com/send?phone=+34634428946&text=*Notificacion Mensual:* Se recuerda al usuario abonar su correspondiente parte para el uso de la plataforma de streaming HBO Max antes de *7 dias*. El correspondiente parte de *5,00 EUR*."
+start chrome "https://web.whatsapp.com/send?phone=X&text=*Notificacion Mensual*"
 echo Se esta ejecuntado el envio, por favor espere...
 timeout /t 30
 echo.
@@ -181,7 +181,7 @@ echo==============================================
 echo.
 :: Todo esta en la URL, no consigo mejor manera de hacerlo... Diosito iluminame.
 :Accion
-start chrome "https://web.whatsapp.com/send?group=🥐MILEURISTAS🥐&text=*Notificacion Mensual:* Se recuerda a los usuarios abonar su correspondiente parte para el uso de la plataformas de streaming Disney+ antes de *7 dias*. @Pandigata *4,00 EUR* y @BOBO  *4,00 EUR*."
+start chrome "https://web.whatsapp.com/send?group=X&text=*Notificacion Mensual:*"
 echo Se esta ejecuntado el envio, por favor espere...
 timeout /t 30
 echo.
