@@ -1,5 +1,12 @@
-Lo que ves en esta repo son scripts más o menos sencillos que me ayudaban a automatizar algunas tareas rutinarias...
+# Cositas de Batch
 
-* CopiaSeguridad.bat: Este script se encarga de ayudar al usuario a crear copias de seguridad de directorios o archivos.
-                      En mi caso, llamaba a este script desde otro más elaborado para crear la copia de un directorio del sistema a un disco externo cada día.
-* Inicio.bat: Es un poco mi bebe, hasta ahora de los scripts más elaborados que tengo. El código esta comentado así que si lo lees sabrás en todo lo que me ayudaba.
+Por aquí guardo los scripts más elaborados que he llegado a desarrollar en Batch...
+
+😒 Sí, lo sé! Mi profesora decía lo mismo es mejor Powershell, pero por algo habrá que empezar.
+
+## ✨ Que vas a encontrar:
+
+-  **ActualizadorAutomático**. (_Encargado de update el software y controladores_)
+-  **CopiaSegurdad**. (_Ayuda a realizar una copia de archivos de manera sencilla y "segura"_)
+-  **Inicio**. (_Sinceramente una locura que se me dio por hacer, en vez de explicarlo echale un ojo y juzga_)
+-  **Diagnostico(ES/EN)**. (_Encargado de unir herramientas del SO para la busqueda de fallas_)
